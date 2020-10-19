@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Description
+This app show details of the movies regarding thier duration, director,actors etc when movie name is clicked.
+reduc has been used to achieve the same.
+
 ## Available Scripts
 
 In the project directory, you can run:
